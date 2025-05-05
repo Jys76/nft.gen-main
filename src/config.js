@@ -34,7 +34,7 @@ const layerConfigurations = [
     growEditionSizeTo: 2,
     layersOrder: [
       { name: "Background" },  // 5, 3, 1
-      { name: "Back "},
+      { name: "Back"},
       { name: "Body" },
       { name: "Mouth" },
       { name: "Hands" },
